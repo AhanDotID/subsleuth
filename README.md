@@ -13,7 +13,6 @@
 [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-39ff14?style=flat-square)](LICENSE)
 [![Author](https://img.shields.io/badge/Author-AhanDotID-00e5ff?style=flat-square)](https://ahandotid.github.io)
-[![Community](https://img.shields.io/badge/Community-CianjurSec-ffd32a?style=flat-square)](#)
 
 </div>
 
